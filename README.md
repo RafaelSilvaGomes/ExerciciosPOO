@@ -1,3 +1,53 @@
-1ª Lista de Exercícios sobre POO
+# Projeto de Programação Orientada a Objetos (POO)
 
-Linguagem Utilizada: Python Version 2025.6.1
+Este repositório contém as atividades práticas desenvolvidas em Python, aplicando os conceitos de Programação Orientada a Objetos (POO), conforme os exercícios propostos.
+
+## Linguagem e Ambiente
+
+- **Linguagem utilizada:** Python
+- **Versão:** Python 2025.6.1
+- **IDE utilizada:** Visual Studio Code (VSCode)
+
+## Atividades Implementadas
+
+### 1. Métodos (Funções em Classes)
+- Calculadora Simples
+- Verificador de Palíndromos
+- Fatorial Recursivo
+- Conversor de Temperaturas
+
+### 2. Matrizes (Arrays Multidimensionais)
+- Maior e Menor Elemento em uma Matriz
+- Soma das Diagonais de uma Matriz Quadrada
+
+### 3. Manipulação de Objetos e Referências
+- Manipulando Dados de um Objeto
+- Trocando Valores entre Objetos
+
+### 4. Classes e Objetos (como Structs)
+- Sistema de Gerenciamento de Funcionários
+- Agenda de Contatos
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Python 2025.6.1 instalado
+- VSCode instalado com a extensão Python ativa
+- 
+### Passos para executar
+
+1. Clone este repositório:
+   ```bash
+Abra a pasta do projeto no VSCode
+
+Execute o arquivo desejado:
+
+Abra o terminal integrado (Ctrl + `)
+
+Rode o comando:
+
+python caminho/do/arquivo.py
+Exemplo:
+
+python calculadora/main.py
