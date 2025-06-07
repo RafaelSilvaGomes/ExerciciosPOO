@@ -34,7 +34,7 @@ Este repositório contém as atividades práticas desenvolvidas em Python, aplic
 
 - Python 2025.6.1 instalado
 - VSCode instalado com a extensão Python ativa
-- 
+  
 ### Passos para executar
 
 1. Clone este repositório:
