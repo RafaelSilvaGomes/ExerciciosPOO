@@ -49,6 +49,7 @@ Abra o terminal integrado (Ctrl + `)
 Rode o comando:
 
 python caminho/do/arquivo.py
+
 Exemplo:
 
 python calculadora/main.py
