@@ -33,7 +33,7 @@ Este repositório contém as atividades práticas desenvolvidas em Python, aplic
 ### Pré-requisitos
 
 - Python 2025.6.1 instalado
-- VSCode instalado com a extensão Python ativa
+- VSCode instalado com a extensão Python ativa ou outra IDE como PyCharm, Spyder, Sublime Text, etc.
   
 ### Passos para executar
 
