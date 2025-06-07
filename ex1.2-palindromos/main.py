@@ -1,16 +1,14 @@
 from palindromo import Palindromo
 
-class Main:
-    def __init__(self):
-        self.palavra = input("Digite uma palavra ou frase: ")
-        self.palindromo = Palindromo(self.palavra)
+def executar():
+    palindromo = Palindromo()
+    print("Verificador de Palíndromos")
+    palavra = input("Digite uma palavra ou frase: ")
 
-    def executar(self):
-        if self.palindromo.verificar_palindromo():
-            print(f"{self.palavra} é um palíndromo.")
-        else:
-            print(f"{self.palavra} não é um palíndromo.")
+    if palindromo.eh_palindromo(palavra):
+        print(f"{palavra} é um palíndromo.")
+    else:
+        print(f"{palavra} não é um palíndromo.")
 
 if __name__ == "__main__":
-    main = Main()
-    main.executar()
+    executar()
