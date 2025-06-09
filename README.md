@@ -47,9 +47,8 @@ Este repositório contém as atividades práticas desenvolvidas em Python, aplic
 4. Abra o terminal integrado (Ctrl + `)
 
 5. Rode o comando:
-   ```bash  
-   python caminho/do/arquivo.py
+python caminho/do/arquivo.py
 
 Exemplo:
-```bash
-python calculadora/main.py
+  ```bash
+  python calculadora/main.py
