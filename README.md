@@ -51,4 +51,4 @@ python caminho/do/arquivo.py
 
 Exemplo:
   ```bash
-  python calculadora/main.py
+  python ex1.1-calculadora/main.py
