@@ -49,10 +49,12 @@ Este repositório contém as atividades práticas desenvolvidas em Python, aplic
 5. Rode o comando:
 python caminho/do/arquivo.py
 
+6. Ou apenas clique no botão Run, localizado no canto superior direito
+   
 Exemplo:
   ```bash
   python ex1.1-calculadora/main.py
 
-6. Ou apenas clique no botão Run, localizado no canto superior direito
+
    
 
