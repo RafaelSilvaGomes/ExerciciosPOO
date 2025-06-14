@@ -52,3 +52,7 @@ python caminho/do/arquivo.py
 Exemplo:
   ```bash
   python ex1.1-calculadora/main.py
+
+6. Ou apenas clique no botão Run, localizado no canto superior direito
+   
+
