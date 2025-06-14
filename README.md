@@ -10,35 +10,23 @@ Este repositório contém as atividades práticas desenvolvidas em Python, aplic
 
 ## Atividades Implementadas
 
-### 1. Problema “terreno”: 
-  Calcula a área e o preço de um terreno retangular.
-  
-### 2. Problema “retangulo”: 
-  Calcula a área, perímetro e diagonal de um retângulo.
+### 1. Métodos (Funções em Classes)
+- Calculadora Simples  
+- Verificador de Palíndromos  
+- Fatorial Recursivo  
+- Conversor de Temperaturas  
 
-### 3. Problema “idades”: 
-  Calcula a idade média entre duas pessoas.
+### 2. Matrizes (Arrays Multidimensionais)
+- Maior e Menor Elemento em uma Matriz  
+- Soma das Diagonais de uma Matriz Quadrada  
 
-### 4. Problema “soma”: 
-  Soma dois valores inteiros.
+### 3. Manipulação de Objetos e Referências
+- Manipulando Dados de um Objeto  
+- Trocando Valores entre Objetos  
 
-### 5.  Problema “troco”: 
-  Calcula o troco de uma compra.
-
-### 6. Problema “circulo”: 
-  Calcula a área de um círculo a partir do raio.
-
-### 7. Problema “pagamento”: 
-  Calcula o pagamento de um funcionário com base nas horas trabalhadas.
-
-### 8. Problema “consumo”: 
-  Calcula o consumo médio de combustível de um carro.
-
-### 9. Problema “medidas”: 
-  Calcula a área de um quadrado, triângulo e trapézio com base em três medidas.
-
-### 10. Problema “duracao”: 
-  Converte um tempo de segundos para o formato horas:minutos:segundos.
+### 4. Classes e Objetos (como Structs)
+- Sistema de Gerenciamento de Funcionários  
+- Agenda de Contatos  
 
 ## Como Executar o Projeto
 
